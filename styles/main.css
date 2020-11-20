@@ -2052,7 +2052,7 @@ p > code {
   }
 }
 body {
-      background-color: #eee;
+      background-color: #da77f2;
     }.header {
         width: 960px;
         margin: 0 auto;
@@ -2067,16 +2067,16 @@ body {
       font-size: 14px !important
     }
     body {
-      color: #555;
+      color: #ced4da;
     }
     .next-md-body {
-      color: #555;
+      color: #ced4da;
     }
     .next-md-body h1, .next-md-body h2 {
-      border-bottom-color: #555;
+      border-bottom-color: #ced4da;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeeefe;
+      background: #0c8599fe;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2163,7 +2163,7 @@ body {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #fffffffe;
+      background-color: #b197fcfe;
     }
     .site-meta {
       background: #000 !important;
@@ -2179,7 +2179,7 @@ body {
     }
     .mist .site-title i {
       background: #FFFFFFfe;
-    }.box-shadow-wrapper {
+    }.post-body,mjx-container {overflow-y:hidden !important;}.post-body,mjx-container {overflow-y:hidden !important;}.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
       cursor: default;
